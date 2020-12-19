@@ -4,7 +4,7 @@
 // (See accompanying file LICENSE_1_0.txt or copy at
 // https://www.boost.org/LICENSE_1_0.txt)
 
-#if __cplusplus >= 201103L
+#if __cplusplus >= 201703L
 
 #ifndef RAFFER_NESTED_NESTED_HPP
 #define RAFFER_NESTED_NESTED_HPP
@@ -29,4 +29,4 @@ using nested_t = typename nested<Template, N, H, T...>::type;
 
 #endif // RAFFER_NESTED_NESTED_HPP
 
-#endif // __cplusplus >= 201103L
+#endif // __cplusplus >= 201703L
