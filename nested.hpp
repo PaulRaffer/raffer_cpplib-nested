@@ -12,6 +12,9 @@
 #define raffer_cpplib_nested__ 202006L
 
 
+#include <cstddef>
+
+
 namespace raffer // interface
 {
 
